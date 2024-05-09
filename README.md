@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/palm7710/palm7710/assets/168710387/5d7a7952-2d5c-4cab-8b59-bd29993ae5d5)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palm7710&theme=2077)
 [![trophy](https://github-profile-trophy.vercel.app/?username=palm7710&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
