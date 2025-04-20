@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/palm7710/palm7710/assets/168710387/5d7a7952-2d5c-4cab-8b59-bd29993ae5d5)
 ### My Skills⚡
-![](https://skillicons.dev/icons?i=html,css,scss,js,python,php,java,docker)
+![](https://skillicons.dev/icons?i=html,css,js,python,php,swift,docker)
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palm7710&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
