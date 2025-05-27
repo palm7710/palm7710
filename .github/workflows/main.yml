@@ -36,16 +36,24 @@ jobs:
         plugin_languages_limit: 8
         plugin_followup: yes
         plugin_followup_indepth: yes
-    - name: Compact display
-      # uses: lowlighter/metrics@latest
-      uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+    # - name: Compact display
+    #   # uses: lowlighter/metrics@latest
+    #   uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+    #   with:
+    #     filename: output/metrics.plugin.achievements.compact.svg
+    #     token: ${{ secrets.PROFILE_PAGE_TOKEN }}
+    #     base: ""
+    #     plugin_achievements: yes
+    #     plugin_achievements_only: >-
+    #       polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+    #       scripter, packager, explorer, infographile, manager
+    #     plugin_achievements_display: compact
+    #     plugin_achievements_threshold: 1
+    - name: Example
+      uses: lowlighter/metrics@latest
       with:
-        filename: output/metrics.plugin.achievements.compact.svg
-        token: ${{ secrets.PROFILE_PAGE_TOKEN }}
-        base: ""
-        plugin_achievements: yes
-        plugin_achievements_only: >-
-          polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-          scripter, packager, explorer, infographile, manager
-        plugin_achievements_display: compact
-        plugin_achievements_threshold: 1
+        template: terminal
+        filename: metrics.terminal.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: header, metadata
+

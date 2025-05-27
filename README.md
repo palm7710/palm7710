@@ -49,6 +49,20 @@ Here are some ideas to get you started:
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/palm7710/palm7710/output-3d-contrib/day.svg" />
 </picture>
 
+<!-- 区切り線 -->
+<p align="center">
+  <img width="900" height="1" alt="" />
+</p>
+
+<!-- Terminal風メトリクス -->
+<p align="center">
+  <img
+    src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg?raw=true"
+    alt="Terminal-style GitHub Metrics"
+  />
+</p>
+
+
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palm7710&theme=2077) -->
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=palm7710&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
