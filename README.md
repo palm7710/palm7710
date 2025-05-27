@@ -19,29 +19,44 @@ Here are some ideas to get you started:
 ### My Skills⚡
 ![](https://skillicons.dev/icons?i=html,css,js,python,php,swift,docker)
 
-<!-- <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palm7710&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> -->
+<!-- <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?palm7710=palm7710&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> -->
 
 <p align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
 	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/palm7710/palm7710/output-3d-contrib/day.svg" />
   </picture>
   <picture>
    	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
 	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/palm7710/palm7710/output-3d-contrib/day.svg" />
   </picture>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palm7710&theme=2077)
+<p align="left" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/palm7710/palm7710/output-3d-contrib/day.svg" />
+	</picture>
+</p>　
+
+<p align="left">
+<picture>
+  <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+ <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/palm7710/palm7710/output-3d-contrib/day.svg" />
+</picture>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?palm7710=palm7710&theme=2077)
 <!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=palm7710&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?palm7710=palm7710&theme=onedark)](https://github-profile-trophy.vercel.app/?palm7710=ryo-ma&theme=tokyonight)
 -->
 
 
 
 <!--
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=palm7710&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?palm7710=palm7710&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 -->
 
