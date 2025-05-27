@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <!-- Terminal風メトリクス -->
 <p align="center">
   <img
-    src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg?raw=true"
+    src="https://github.com/lowlighter/palm7710/palm7710/examples/metrics.terminal.svg?raw=true"
     alt="Terminal-style GitHub Metrics"
   />
 </p>
