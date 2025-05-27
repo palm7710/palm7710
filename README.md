@@ -19,7 +19,20 @@ Here are some ideas to get you started:
 ### My Skills⚡
 ![](https://skillicons.dev/icons?i=html,css,js,python,php,swift,docker)
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palm7710&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+<!-- <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palm7710&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> -->
+
+<p align="left">
+  <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
+	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
+	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+  </picture>
+  <picture>
+   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
+	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
+	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+  </picture>
+</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palm7710&theme=2077)
 <!--
