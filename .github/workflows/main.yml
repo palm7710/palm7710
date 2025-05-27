@@ -37,7 +37,8 @@ jobs:
         plugin_followup: yes
         plugin_followup_indepth: yes
     - name: Compact display
-      uses: lowlighter/metrics@latest
+      # uses: lowlighter/metrics@latest
+      uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
       with:
         filename: output/metrics.plugin.achievements.compact.svg
         token: ${{ secrets.PROFILE_PAGE_TOKEN }}
