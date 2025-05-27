@@ -49,7 +49,7 @@ Here are some ideas to get you started:
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/palm7710/palm7710/output-3d-contrib/day.svg" />
 </picture>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palm7710&theme=2077)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palm7710&theme=2077) -->
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=palm7710&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 -->
