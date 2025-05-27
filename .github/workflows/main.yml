@@ -20,13 +20,13 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: output/metrics.base.svg
-        token: ${{ secrets.PROFILE_PAGE_TOKEN }}
+        token: ${{ secrets.PROFILE_PAGE_TOKEN02 }}
         base: header, activity, community, repositories, metadata
     - name: Most used (with details)
       uses: lowlighter/metrics@latest
       with:
         filename: output/details.svg
-        token: ${{ secrets.PROFILE_PAGE_TOKEN }}
+        token: ${{ secrets.PROFILE_PAGE_TOKEN02 }}
         base: ""
         repositories_skipped: chatbot-ui, gitHub-readme-stats-clone, PL0-compiler
         plugin_languages: yes
@@ -41,7 +41,7 @@ jobs:
     #   uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
     #   with:
     #     filename: output/metrics.plugin.achievements.compact.svg
-    #     token: ${{ secrets.PROFILE_PAGE_TOKEN }}
+    #     token: ${{ secrets.PROFILE_PAGE_TOKEN02 }}
     #     base: ""
     #     plugin_achievements: yes
     #     plugin_achievements_only: >-
