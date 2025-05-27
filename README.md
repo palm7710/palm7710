@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### My Skills⚡
 ![](https://skillicons.dev/icons?i=html,css,js,python,php,swift,docker)
 
-<!-- <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?palm7710=palm7710&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> -->
+<!-- <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?usernamepalm7710&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> -->
 
 <p align="left">
   <picture>
@@ -49,14 +49,14 @@ Here are some ideas to get you started:
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/palm7710/palm7710/output-3d-contrib/day.svg" />
 </picture>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?palm7710=palm7710&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palm7710&theme=2077)
 <!--
-[![trophy](https://github-profile-trophy.vercel.app/?palm7710=palm7710&theme=onedark)](https://github-profile-trophy.vercel.app/?palm7710=ryo-ma&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=palm7710&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 -->
 
 
 
 <!--
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?palm7710=palm7710&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=palm7710&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 -->
 
