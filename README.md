@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/palm7710/palm7710/assets/palm7710-header.png)
+![Blue Modern Gradient Technology LinkedIn Banner](https://raw.githubusercontent.com/palm7710/palm7710/main/assets/palm7710-header.png)
 
 ### My Skills⚡
 
