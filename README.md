@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- プロフィールの表示回数 -->
 <!-- ![](https://komarev.com/ghpvc/?username=palm7710&color=ff69b4&style=for-the-badge) -->
-### My Report🃟
+### My Report🦄
 
 <p align="left">
   <picture>
