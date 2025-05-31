@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <!-- <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?usernamepalm7710&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> -->
 
+![](https://komarev.com/ghpvc/?username=palm7710&color=ff69b4&style=for-the-badge)
+
 <p align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
