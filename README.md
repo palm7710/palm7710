@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!-- プロフィールの表示回数 -->
 <!-- ![](https://komarev.com/ghpvc/?username=palm7710&color=ff69b4&style=for-the-badge) -->
-### My Report🦄
+### My Reports🦄
 
 <p align="left">
   <picture>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   </picture>
 </p>
 
-### My Commit🐳
+### My Commits🐳
 <p align="left" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
