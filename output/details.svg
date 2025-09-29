@@ -202,14 +202,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.04806096717226" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="425.04806096717226" y="0" width="16.15901744303476" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="441.207078410207" y="0" width="6.42423723440279" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="447.6313156446098" y="0" width="4.10579486700675" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="451.73711051161655" y="0" width="3.725644661117619" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="455.46275517273415" y="0" width="2.57064267081644" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.03339784355063" y="0" width="1.022242735860264" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.05564057941086" y="0" width="0.9443594205891277" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="424.98051759040857" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="424.98051759040857" y="0" width="16.153695283452528" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="441.1342128738611" y="0" width="6.422121337450755" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="447.5563342113118" y="0" width="4.104442575905441" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="451.6607767872173" y="0" width="3.72441757689031" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="455.3851943641076" y="0" width="2.5697959998742737" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.95499036398184" y="0" width="1.0231035876446566" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.97809395162653" y="0" width="1.0219060483734657" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -222,7 +222,7 @@
                             </div>
                             <small>
                                 <div>24.1 MB</div>
-                                <div>92.4%</div>
+                                <div>92.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -252,9 +252,9 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Python
                             </div>
                             <small>
                                 <div>58 kB</div>
@@ -302,13 +302,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                JavaScript
                             </div>
                             <small>
-                                <div>53.6 kB</div>
-                                <div>0.21%</div>
+                                <div>58 kB</div>
+                                <div>0.22%</div>
                             </small>
                         </div>
                     </section>
