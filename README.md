@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![Blue Modern Gradient Technology LinkedIn Banner](https://raw.githubusercontent.com/palm7710/palm7710/main/assets/palm7710-header.png)
-<p>👯 I’m iOS and frontend engineer ...<\p>
-<p>👯 I’m blogger ...<\p>
-<p>👯 I’m student ...<\p>
+<p>👯 I’m iOS and frontend engineer ...
+<p>👯 I’m blogger ...
+<p>👯 I’m student ...
 
 ### My Skills⚡
 
