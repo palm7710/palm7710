@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ![Blue Modern Gradient Technology LinkedIn Banner](https://raw.githubusercontent.com/palm7710/palm7710/main/assets/palm7710-header.png)
-<p>🦜Native Mobile App Development (Swift & Kotlin)
-<p>👯Free-spirited Girl
-<p>👩‍🎓Student
+- 🦜Native Mobile App Development (Swift & Kotlin)
+- 👯UI/UX 
+- 👩‍🎓Student & Free-spirited Girl
 
 ### Awards 👑
-<p> Tech.SummerCamp 2024 最優秀賞
-<p> Mercari AI/LLM Hackathon 優秀賞
-<p> マイナビAWSハッカソン　グランプリ
-<p> 42Tokyo Piscine 合格
+- Tech.SummerCamp 2024 最優秀賞
+- Mercari AI/LLM Hackathon 優秀賞
+- マイナビAWSハッカソン　グランプリ
+- 42Tokyo Piscine 合格
 
 ### My Skills⚡
 
