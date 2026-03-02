@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/palm7710/palm7710/output-3d-contrib/day.svg" />
+	 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palm7710&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=tokyonight" />
 	</picture>
 </p>　
 
