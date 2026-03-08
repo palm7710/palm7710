@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - Mercari AI/LLM Hackathon 優秀賞
 - マイナビAWSハッカソン　グランプリ
 - 42Tokyo Piscine 合格
+- Figma Make ハッカソン　Soul in the Machine 賞
 
 ### My Skills⚡
 
