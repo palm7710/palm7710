@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - マイナビAWSハッカソン　グランプリ
 - 42Tokyo Piscine 合格
 - Figma Make ハッカソン　Soul in the Machine 賞
+- 技育CAMP ハッカソン Vol.3 2026 最優秀賞
 
 ### My Skills⚡
 
