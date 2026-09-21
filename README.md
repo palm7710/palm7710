@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 - Mercari AI/LLM Hackathon 優秀賞
 - マイナビAWSハッカソン グランプリ
 - 42Tokyo Piscine 合格
-- FigmaMakeハッカソン Soul in the Machine 賞
+- FigmaMakeハッカソン Soul in the Machine賞
 - 技育CAMPハッカソンVol.3 2026 最優秀賞
+- 技育博 vol.2 2026 W賞
 
 ### My Skills⚡
 
