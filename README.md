@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Awards 👑
 - Tech.SummerCamp 2024 最優秀賞
 - Mercari AI/LLM Hackathon 優秀賞
-- マイナビAWSハッカソン グランプリ
+- マイナビAWSハッカソン 最優秀賞
 - 42Tokyo Piscine 合格
 - FigmaMakeハッカソン Soul in the Machine賞
 - 技育CAMPハッカソンVol.3 2026 最優秀賞
